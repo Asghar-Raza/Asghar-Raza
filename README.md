@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Asghar Raza
 - Currently pursuing my degree in BS Computer Science(2020-2024)
-- 💼 I’m a Hardware Designer
+- 💼 Working on and learning Hardware Design
 - 💞️ loves developing websites
 - 📫 How to reach me  
 
