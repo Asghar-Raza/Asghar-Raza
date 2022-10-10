@@ -19,7 +19,7 @@ Hi, I'm Asghar Raza, an undergraduate Computer Science student at [@UIT](https:/
 **More about me**
 
 - Currently exploring the domain of Artificial Intelligence and Machine Learning.
-- Working to create a model based on YOLO to identify humans even in the dark and control the intensity of light in the room with respect to it.
+- Working on SHA-3 algorithm to create encypted data from the user information without using pre-defined libraries.
 - Worked on a RISCV based simulator.
 
  
