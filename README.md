@@ -20,6 +20,7 @@ Hi, I'm Asghar Raza, an undergraduate Computer Science student at [@UIT](https:/
 
 - Currently exploring the domain of Artificial Intelligence and Machine Learning.
 - Working on SHA-3 algorithm to create encypted data from the user information without using pre-defined libraries.
+- Working on a Chat Bot that delivers the RTL file against the user prompt.
 - Worked on a RISCV based simulator.
 
  
