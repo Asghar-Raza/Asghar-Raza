@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-Hi, I'm Asghar Raza, an undergraduate Computer Science student at [@UIT](https://www.uitu.edu.pk/) with software and web development skills from Pakistan. I'm a Chairperson at our [IEEE](https://www.ieee.org/) UIT student branch, Lead at Google Development Student Club [Google Developers](https://developers.google.com/community/gdsc), contributing to the open source society by working with [MERL](https://merledupk.org/). Apart from this I really enjoy playing football and to travel and not to forget about programming.
+Hi, I'm Asghar Raza, a graduate Computer Science student at [@UIT](https://www.uitu.edu.pk/) with software and web development skills from Pakistan. I'm a Former Chairperson at our [IEEE](https://www.ieee.org/) UIT student branch, Ex-Lead at Google Development Student Club [Google Developers](https://developers.google.com/community/gdsc), contributing to the open source society by working with [MERL](https://merledupk.org/). Apart from this I really enjoy playing football and to travel and not to forget about programming.
 
 <img align = right width = "50%" src = https://www.lambdatest.com/resources/images/news24.gif>
 
